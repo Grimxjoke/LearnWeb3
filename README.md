@@ -1,6 +1,8 @@
 # Learn Web 3
 
-This is a repository for my journey of learning Web3. In this repository, I am experimenting with small projects that are essential parts of the ecosystem.
+This is a repository of part of my journey of learning Web3. In this repository, I am experimenting small projects that are essential parts of the ecosystem.
+
+I'm Learn a lot in Smart Contracts developement, Testing , Tooling and many Security Best Practices to have in this field.
 
 ## Projects
 
