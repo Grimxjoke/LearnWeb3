@@ -20,8 +20,8 @@ The following projects are included in this repository:
 
 To get started with these projects, you will need to have [Node.js](https://nodejs.org) installed on your machine.
 
-1. Clone this repository to your local machine using the following command: npm install
-2. Install the dependencies by running the following command: npm start
+1. Clone this repository to your local machine using the following command: `npm install`
+2. Install the dependencies by running the following command: `npm start`
 
 ## Contributing
 
